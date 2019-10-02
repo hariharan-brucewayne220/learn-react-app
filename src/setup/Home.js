@@ -16,7 +16,7 @@ const Title = styled.div`
 `
 
 const TutorialNavigation = styled.div`
-    margin-top: 20px;
+    margin-top: 40px;
     margin-left: calc(50% - 100px);
     text-align: left;
 `;
@@ -45,7 +45,7 @@ class Home extends Component {
         return (
             <Container>
                 <Title>
-                    Welcome to Learn React App!
+                    Welcome to new React App!
                 </Title>
                 <div>
                     Jump to any tutorial as you like but it's recommended to go in order.

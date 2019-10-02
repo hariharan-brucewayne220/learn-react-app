@@ -12,13 +12,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
   border-radius: 5px;
-  background-color: #ccc7c2;
+  background-color: #fff;
   padding: 0px 5px 0px 5px;
 }
 
 blockquote {
   border-left: solid 5px #9ba1b1;
-  padding-left: 20px;
+  padding-left: 40px;
   font-style: italic;
 }
 
@@ -47,7 +47,7 @@ button {
 }
 
 .cardHeader {
-  background-color: grey;
+  background-color: black;
 
 }
 
